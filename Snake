@@ -1,17 +1,22 @@
 # Save this file at: .github/workflows/snake.yml
 # in your special profile repo => github.com/sukrut07/sukrut07
 #
-# Setup steps:
-# 1. If you don't already have it, create a repo named EXACTLY "sukrut07"
-#    (must match your username) and make it public.
-# 2. Put your README.md (from this chat) as the README.md of that repo.
-# 3. Create the folder .github/workflows/ in that repo and add this file as snake.yml
-# 4. Go to repo Settings -> Actions -> General -> Workflow permissions
-#    -> set to "Read and write permissions" -> Save
-# 5. Go to the "Actions" tab and manually run "generate animation" once
-#    (or just wait for the cron / push trigger)
-# 6. After it runs successfully, an "output" branch is created with the SVGs,
-#    and the snake image in your README will start showing your real contribution graph.
+# This version:
+#  1. Uses a custom color gradient (color_dots) so it looks like a real heatmap
+#     (dark cold color for low activity -> bright hot color for high activity)
+#     instead of the flat single-green GitHub default.
+#  2. Uses a dark "color_empty" so empty days are NOT white.
+#  3. Adds a post-processing step that injects a Gaussian blur filter into the
+#     generated SVG, so the whole grid + snake gets a soft, slightly glowing look
+#     instead of crisp hard-edged pixels.
+#
+# To tweak the look later:
+#   - BLUR_STD in the "Add heatmap blur effect" step: higher = blurrier/softer,
+#     lower = sharper. Try values between 0.3 (subtle) and 1.5 (very soft glow).
+#   - color_dots in the outputs line below: comma-separated hex colors,
+#     ordered low activity -> high activity.
+#   - color_empty: background color for days with 0 contributions.
+#   - color_snake: color of the snake itself.
 
 name: generate animation
 
@@ -37,8 +42,37 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#ffffff&color_dots=#1b1f3b,#3b2f6b,#7c3aed,#c026d3,#f97316&color_empty=#0d1117
+
+      - name: Add heatmap blur effect
+        run: |
+          python3 - <<'PY'
+          import re, glob
+
+          BLUR_STD = "0.6"  # increase for softer/blurrier, decrease for sharper
+
+          for path in glob.glob("dist/*.svg"):
+              with open(path, "r", encoding="utf-8") as f:
+                  content = f.read()
+
+              filter_defs = (
+                  '<defs><filter id="heatmapBlur" x="-20%" y="-20%" width="140%" height="140%">'
+                  f'<feGaussianBlur stdDeviation="{BLUR_STD}" /></filter></defs>'
+              )
+
+              # Inject the blur filter + open a blurred group right after the opening <svg ...> tag
+              content = re.sub(
+                  r"(<svg[^>]*>)",
+                  r"\1" + filter_defs + '<g filter="url(#heatmapBlur)">',
+                  content,
+                  count=1,
+              )
+              # Close that group right before the final </svg>
+              content = re.sub(r"(</svg>\s*)$", r"</g>\1", content)
+
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(content)
+          PY
 
       - name: Push snake animation to the "output" branch
         uses: crazy-max/ghaction-github-pages@v4
