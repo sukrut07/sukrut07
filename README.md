@@ -153,14 +153,6 @@ $ cat about.json
 <a href="https://www.instagram.com/sukrut.xo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://portfoliosukrut.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 
-<br/><br/>
-
-```text
-  _.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._
- (  01010101  ) (  10101010  ) (  01010101  ) (  10101010  ) (  01010101  )
-  `~._.~"~._.~'   `~._.~"~._.~'   `~._.~"~._.~'   `~._.~"~._.~'   `~._.~"~._
-```
-
 <br/>
 
 <i>⭐️ From <a href="https://github.com/sukrut07">sukrut07</a> — Keep Building, Keep Learning 🚀</i>
