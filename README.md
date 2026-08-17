@@ -2,17 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4068,100:00ff88&height=200&section=header&text=Hi%20There,%20I'm%20Sukrut%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-```text
- ╔═══════════════════════════════════════════════════════╗
- ║  ██████╗ ██╗   ██╗██╗  ██╗██████╗ ██╗   ██╗████████╗  ║
- ║ ██╔════╝ ██║   ██║██║ ██╔╝██╔══██╗██║   ██║╚══██╔══╝  ║
- ║ ╚█████╗  ██║   ██║█████═╝ ██████╔╝██║   ██║   ██║     ║
- ║  ╚═══██╗ ██║   ██║██╔═██╗ ██╔══██╗██║   ██║   ██║     ║
- ║ ██████╔╝ ╚██████╔╝██║  ██╗██║  ██║╚██████╔╝   ██║     ║
- ║ ╚═════╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝     ║
- ╚═══════════════════════════════════════════════════════╝
-```
-
 <a href="https://github.com/sukrut07">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=00FF88&background=0D1117&center=true&vCenter=true&width=650&lines=whoami+%E2%86%92+sukrut07+(Full-Stack+%26+CV+Developer);cat+status.txt+%E2%86%92+Building+Web+Platforms+%26+Computer+Vision;echo+%24STACK+%E2%86%92+Python+%E2%80%A2+JS%2FTS+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+OpenCV;git+commit+-m+%22Always+learning+new+frameworks+%F0%9F%9A%80%22" alt="Typing SVG" />
 </a>
