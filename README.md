@@ -135,7 +135,9 @@ $ cat about.json
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/sukrut07"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+  <a href="https://www.buymeacoffee.com/sukrut07">
+    <img src="assets/buymeacoffee.png" height="50" alt="Buy Me A Coffee"/>
+  </a>
 </p>
 
 <br/>
