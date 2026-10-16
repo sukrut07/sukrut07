@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@releases/v3
+        uses: vn7n24fzkq/github-profile-summary-cards@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
