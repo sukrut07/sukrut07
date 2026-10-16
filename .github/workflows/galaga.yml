@@ -1,10 +1,10 @@
-name: Generate Pacman Game from GitHub Contribution Grid
+name: Generate Galaga Game from GitHub Contribution Grid
 
 on:
   schedule:
     # Runs automatically every 12 hours
     - cron: '0 */12 * * *'
-  workflow_dispatch: # Allows manual triggering from Actions tab
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -18,18 +18,19 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Generate Pacman Contribution Graph SVGs
+      - name: Generate Galaga Contribution Graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+          games: 'galaga'
           hide_month_labels: 'false'
 
-      # Push generated light and dark SVGs to the 'output' branch
+      # Push generated light and dark Galaga SVGs to the 'output' branch (keeping existing files)
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
