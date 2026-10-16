@@ -181,60 +181,78 @@ $ cat about.json
 ## 📌 Featured Projects & Hackathon Work
 
 <div align="center">
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/sukrut07/agrin-regenerative-agricultural-intelligence1" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukrut07&repo=agrin-regenerative-agricultural-intelligence1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="AgriSense IoT Soil Sensing" style="max-width: 100%;"/>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/sukrut07/ParadigmHMX" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukrut07&repo=ParadigmHMX&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ParadigmHMX InsiderTrace Financial Crime Detection" style="max-width: 100%;"/>
       </a>
       <p align="left">
-        🌱 <b>AgriSense: IoT Soil Probe & Microclimate AI</b><br/>
-        <i>Low-cost IoT soil sensing probe with on-device machine learning models for Indian small & marginal farmers to optimize moisture, NPK replenishment, and crop vitality.</i><br/>
+        🛡️ <b>ParadigmHMX (InsiderTrace): Risk & Financial Crime Platform</b><br/>
+        <i>Evidence-first financial crime and insider risk intelligence engine unifying employee operations, transactional networks, and money-flow subgraphs with graph learning.</i><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/sukrut07/mplads-ai-audit" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukrut07&repo=mplads-ai-audit&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Smart India Hackathon MPLADS AI Audit" style="max-width: 100%;"/>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/sukrut07/deepfake_detection" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukrut07&repo=deepfake_detection&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Deepfake Detection V2 Platform" style="max-width: 100%;"/>
       </a>
       <p align="left">
-        🛡️ <b>Smart India Hackathon 2026 (PS-26102): MPLADS Anomaly Detection</b><br/>
-        <i>AI-powered fraud detection & financial anomaly engine for MPLADS scheme development works, leveraging unsupervised graph learning and geospatial project auditing.</i><br/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/Graph_ML-FF6F00?style=flat-square&logo=graphql&logoColor=white" alt="Graph ML"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        👁️ <b>Deepfake Detection V2: Production & Research CV Platform</b><br/>
+        <i>Scientifically defensible, multi-face and video-capable deepfake detection platform leveraging deep CNN architectures (MesoNet, EfficientNet) and OpenCV analysis.</i><br/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/sukrut07/ai-financial-journey" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukrut07&repo=ai-financial-journey&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Paytm Build for India PS-03 AI Financial Journey" style="max-width: 100%;"/>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/sukrut07/SML-Code-Optimiser" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukrut07&repo=SML-Code-Optimiser&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Optima AI SML Code Optimiser" style="max-width: 100%;"/>
       </a>
       <p align="left">
-        💳 <b>Paytm Build for India Hackathon (PS-03): AI Financial Journeys</b><br/>
-        <i>Personalized wealth navigation engine generating intelligent cash-flow trajectories, adaptive budgeting milestones, and conversational goal forecasting.</i><br/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+        ⚡ <b>Optima AI: Autonomous Code Optimization Platform</b><br/>
+        <i>High-throughput code profiling and automated optimization engine featuring multi-language AST parsing, automated algorithmic complexity reduction, and AI refactoring.</i><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/sukrut07/federated-learning-system" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukrut07&repo=federated-learning-system&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Federated Learning Privacy-Preserving AI" style="max-width: 100%;"/>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/sukrut07/Tracera" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukrut07&repo=Tracera&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="TRACERA Mini Audit Document Review System" style="max-width: 100%;"/>
       </a>
       <p align="left">
-        🧠 <b>Federated Learning & Decentralized AI Framework</b><br/>
-        <i>Privacy-preserving distributed training architecture using Flower (flwr) with differential privacy, keeping sensitive data localized while collaboratively training global models.</i><br/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/Flower_FL-FFD700?style=flat-square&logo=flower&logoColor=black" alt="Flower"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        📑 <b>TRACERA: Mini Audit Document Review System</b><br/>
+        <i>Calm, document-centric audit review platform engineered for Chartered Accountant (CA) firms to collect, inspect, annotate, and approve client financial documents.</i><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/sukrut07/ReRoute" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukrut07&repo=ReRoute&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ReRoute AI-Powered Financial Journey Engine" style="max-width: 100%;"/>
+      </a>
+      <p align="center">
+        💳 <b>ReRoute: AI-Powered Financial Journey Engine</b><br/>
+        <i>Paytm Build for India AI Hackathon: "Don't restart. Reroute." Intent-aware financial journey platform guiding users from goal to completion with dynamic discrepancy rerouting.</i><br/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       </p>
     </td>
   </tr>
@@ -243,8 +261,8 @@ $ cat about.json
 
 ### 🏆 Hackathons & Leadership
 
-- **Smart India Hackathon 2026 (PS-26102)**: Architected end-to-end anomaly detection models to safeguard public fund allocations.
-- **Paytm Build for India AI Hackathon (PS-03)**: Designed next-generation intelligent financial navigators with AI-driven risk modeling.
+- **Smart India Hackathon 2026 (PS-26102)**: Architected [ParadigmHMX (InsiderTrace)](https://github.com/sukrut07/ParadigmHMX) — an evidence-first insider risk and financial crime detection platform unifying transaction networks and money-flow subgraphs.
+- **Paytm Build for India AI Hackathon (PS-03)**: Built [ReRoute](https://github.com/sukrut07/ReRoute) — an intent-aware financial journey engine that guides users through goal trajectories and dynamically reroutes around friction points.
 - **Vertex GDNA — Technical Lead & Club Coordinator**: Directing game design and graphics pipelines, conducting Unity/Blender workshops, and mentoring multidisciplinary engineering student teams.
 
 <br/>
