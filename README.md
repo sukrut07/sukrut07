@@ -43,8 +43,8 @@
 
   <br/><br/>
 
-  <!-- PROFILE VIEWS COUNTER -->
-  <img src="https://komarev.com/ghpvc/?username=sukrut07&style=for-the-badge&color=00ff88&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views Counter"/>
+  <!-- PROFILE VIEWS COUNTER (Starting baseline at 700) -->
+  <img src="https://hits.sh/github.com/sukrut07/sukrut07.svg?style=for-the-badge&label=PROFILE%20VIEWS&extraCount=700&color=00ff88&labelColor=0d1117" alt="Profile Views Counter"/>
 
 </div>
 
