@@ -9,7 +9,9 @@
   <br/>
 
   <!-- HEADER GREETING -->
-  <h1>Hi there, I'm Sukrut 👋</h1>
+  <a href="https://github.com/sukrut07">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Sukrut+%F0%9F%91%8B" alt="Hi there, I'm Sukrut 👋" />
+  </a>
 
   <!-- TYPING SVG SUBHEADER -->
   <a href="https://github.com/sukrut07">
@@ -19,7 +21,7 @@
   <br/><br/>
 
   <!-- SOCIAL & RESUME BADGES ROW -->
-  <a href="https://github.com/sukrut07/sukrut07/blob/main/assets/Sukrut_Dusane_Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1GobtmQMxCGyy8o4h7qBIju1gagS9U7XU?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Resume-View%20%2F%20Download-00FF88?style=for-the-badge&logo=googledocs&logoColor=0d1117" alt="View Resume PDF"/>
   </a>
   <a href="https://www.linkedin.com/in/sukrut-dusane-b44813386/" target="_blank">
@@ -84,7 +86,7 @@ $ cat about.json
 
 ### 💡 At a Glance
 
-- 🎓 **Education**: B.Tech in CSE (AI & Machine Learning), **MIT Academy of Engineering (MITAOE), Pune** (CGPA: 8.5/10).
+- 🎓 **Education**: B.Tech in CSE (AI & Machine Learning), **MIT Academy of Engineering (MITAOE), Pune**.
 - 💼 **Experience**: Founding Engineer Intern at **OBLIQ-in** (automating resources for CA audit firms) | Former AI/ML Intern at **Vicharanshala Labs, IIT Ropar**.
 - 🎯 **Technical Focus**: Machine learning architectures, computer vision pipelines, document intelligence (OCR), and full-stack systems.
 - 🎮 **Club Leadership**: Junior Animator & Club Coordinator at **Vertex GDNA** (organising Manim-to-Godot learning sessions).
@@ -92,7 +94,7 @@ $ cat about.json
   - **1st Runner Up**: PVG Ignition Hackverse (automated insurance underwriting & risk assessment).
   - **1st Place**: Fund Arcade (Pune Start-Up Fest '26, COEP Technological University).
   - **Qualifier**: Smart India Hackathon 2026 Internal Round (Team Agastya_01: PS-26102 MPLADS fraud detection & PS-26239 tribal scholarship platform).
-- 📄 **Resume**: [Click here to view / download resume (PDF)](https://github.com/sukrut07/sukrut07/blob/main/assets/Sukrut_Dusane_Resume.pdf).
+- 📄 **Resume**: [Click here to view / download resume](https://drive.google.com/drive/folders/1GobtmQMxCGyy8o4h7qBIju1gagS9U7XU?usp=drive_link).
 
 <br/>
 <hr/>
@@ -367,7 +369,7 @@ $ cat about.json
         📫 <b>Direct Contact:</b> <a href="mailto:sukrut.dusane@gmail.com">sukrut.dusane@gmail.com</a> • Pune, Maharashtra
       </p>
       <p>
-        <a href="https://github.com/sukrut07/sukrut07/blob/main/assets/Sukrut_Dusane_Resume.pdf" target="_blank">
+        <a href="https://drive.google.com/drive/folders/1GobtmQMxCGyy8o4h7qBIju1gagS9U7XU?usp=drive_link" target="_blank">
           <img src="https://img.shields.io/badge/📄%20Resume-Download%20PDF-00FF88?style=flat-square&logo=googledocs&logoColor=0d1117" alt="Download Resume"/>
         </a>
         <a href="https://www.linkedin.com/in/sukrut-dusane-b44813386/" target="_blank">
