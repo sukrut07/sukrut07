@@ -10,7 +10,7 @@
 
   <!-- HEADER GREETING -->
   <a href="https://github.com/sukrut07">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Sukrut+%F0%9F%91%8B" alt="Hi there, I'm Sukrut 👋" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Sukrut" alt="Hi there, I'm Sukrut" />
   </a>
 
   <!-- TYPING SVG SUBHEADER -->
