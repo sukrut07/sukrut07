@@ -235,27 +235,29 @@ $ cat about.json
 
 ### 🛡️ Core Certifications & Verified Digital Badges
 <p align="center">
-  <img src="assets/badges/01-aws-educate-introduction-to-generative-ai.png" width="105" alt="AWS Educate Introduction to Generative AI" />
-  <img src="assets/badges/02-aws-knowledge-ai-driven-development-lifecycle-foundations.png" width="105" alt="AWS Knowledge: AI Driven Development Lifecycle Foundations" />
-  <img src="assets/badges/03-mongodb-building-ai-powered-search-with-vector-search.png" width="105" alt="Building AI-Powered Search with MongoDB Vector Search" />
-  <img src="assets/badges/04-mongodb-building-genai-applications.png" width="105" alt="Building GenAI Applications with MongoDB" />
-  <img src="assets/badges/05-mongodb-building-rag-apps.png" width="105" alt="Building RAG Apps Using MongoDB" />
-  <img src="assets/badges/06-ibm-career-management-essentials.png" width="105" alt="Career Management Essentials" />
-  <img src="assets/badges/07-mongodb-crud-operations.png" width="105" alt="CRUD Operations in MongoDB" />
-  <img src="assets/badges/08-cisco-data-analytics-essentials.png" width="105" alt="Data Analytics Essentials" />
-  <br/>
-  <img src="assets/badges/09-cisco-find-insights-with-ai.png" width="105" alt="Find Insights with AI" />
-  <img src="assets/badges/10-cisco-introduction-to-modern-ai.png" width="105" alt="Introduction to Modern AI" />
-  <img src="assets/badges/11-cisco-javascript-essentials-1.png" width="105" alt="JavaScript Essentials 1" />
-  <img src="assets/badges/12-cisco-javascript-essentials-2.png" width="105" alt="JavaScript Essentials 2" />
-  <img src="assets/badges/13-mongodb-memory-for-ai-applications.png" width="105" alt="Memory for AI Applications with MongoDB" />
-  <img src="assets/badges/14-mongodb-schema-design-optimization.png" width="105" alt="MongoDB Schema Design Optimization Skill Badge" />
-  <img src="assets/badges/15-mongodb-sharding-strategies.png" width="105" alt="MongoDB Sharding Strategies" />
-  <img src="assets/badges/16-cisco-python-essentials-1.png" width="105" alt="Python Essentials 1" />
-  <br/>
-  <img src="assets/badges/17-cisco-python-essentials-2.png" width="105" alt="Python Essentials 2" />
-  <img src="assets/badges/18-mongodb-securing-atlas-authentication-authorization.png" width="105" alt="Securing MongoDB Atlas: Authentication & Authorization" />
-  <img src="assets/badges/19-oracle-agentic-ai-certified-foundations-associate.png" width="105" alt="Oracle Agentic AI Certified Foundations Associate" />
+  <img src="assets/badges/01-aws-educate-introduction-to-generative-ai.png" width="95" alt="AWS Educate Introduction to Generative AI" />
+  <img src="assets/badges/02-aws-knowledge-ai-driven-development-lifecycle-foundations.png" width="95" alt="AWS Knowledge: AI Driven Development Lifecycle Foundations" />
+  <img src="assets/badges/03-mongodb-building-ai-powered-search-with-vector-search.png" width="95" alt="Building AI-Powered Search with MongoDB Vector Search" />
+  <img src="assets/badges/04-mongodb-building-genai-applications.png" width="95" alt="Building GenAI Applications with MongoDB" />
+  <img src="assets/badges/05-mongodb-building-rag-apps.png" width="95" alt="Building RAG Apps Using MongoDB" />
+  <img src="assets/badges/06-ibm-career-management-essentials.png" width="95" alt="Career Management Essentials" />
+  <img src="assets/badges/07-mongodb-crud-operations.png" width="95" alt="CRUD Operations in MongoDB" />
+</p>
+<p align="center">
+  <img src="assets/badges/08-cisco-data-analytics-essentials.png" width="95" alt="Data Analytics Essentials" />
+  <img src="assets/badges/09-cisco-find-insights-with-ai.png" width="95" alt="Find Insights with AI" />
+  <img src="assets/badges/10-cisco-introduction-to-modern-ai.png" width="95" alt="Introduction to Modern AI" />
+  <img src="assets/badges/11-cisco-javascript-essentials-1.png" width="95" alt="JavaScript Essentials 1" />
+  <img src="assets/badges/12-cisco-javascript-essentials-2.png" width="95" alt="JavaScript Essentials 2" />
+  <img src="assets/badges/13-mongodb-memory-for-ai-applications.png" width="95" alt="Memory for AI Applications with MongoDB" />
+  <img src="assets/badges/14-mongodb-schema-design-optimization.png" width="95" alt="MongoDB Schema Design Optimization Skill Badge" />
+</p>
+<p align="center">
+  <img src="assets/badges/15-mongodb-sharding-strategies.png" width="95" alt="MongoDB Sharding Strategies" />
+  <img src="assets/badges/16-cisco-python-essentials-1.png" width="95" alt="Python Essentials 1" />
+  <img src="assets/badges/17-cisco-python-essentials-2.png" width="95" alt="Python Essentials 2" />
+  <img src="assets/badges/18-mongodb-securing-atlas-authentication-authorization.png" width="95" alt="Securing MongoDB Atlas: Authentication & Authorization" />
+  <img src="assets/badges/19-oracle-agentic-ai-certified-foundations-associate.png" width="95" alt="Oracle Agentic AI Certified Foundations Associate" />
 </p>
 
 <br/>
