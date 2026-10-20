@@ -234,138 +234,29 @@ $ cat about.json
 <!-- ========================================================================================================= -->
 
 ### 🛡️ Core Certifications & Verified Digital Badges
-<div align="center">
-<table border="0">
-  <!-- ROW 1 (Badges 1 - 8) -->
-  <tr>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-" target="_blank">
-        <img src="assets/badges/01-aws-educate-introduction-to-generative-ai.png" width="90" alt="AWS Educate Introduction to Generative AI" title="AWS Educate Introduction to Generative AI"/><br/>
-        <sub><b>AWS GenAI<br/>Intro</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-ai-driven-development-lifecycle-found" target="_blank">
-        <img src="assets/badges/02-aws-knowledge-ai-driven-development-lifecycle-foundations.png" width="90" alt="AWS Knowledge: AI Driven Development Lifecycle Foundations" title="AWS Knowledge: AI Driven Development Lifecycle Foundations"/><br/>
-        <sub><b>AWS AI Dev<br/>Lifecycle</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/mongodb/badge/building-ai-powered-search-with-mongodb-vector-sear.1" target="_blank">
-        <img src="assets/badges/03-mongodb-building-ai-powered-search-with-vector-search.png" width="90" alt="Building AI-Powered Search with MongoDB Vector Search" title="Building AI-Powered Search with MongoDB Vector Search"/><br/>
-        <sub><b>MongoDB<br/>Vector Search</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/mongodb/badge/building-genai-applications-with-mongodb" target="_blank">
-        <img src="assets/badges/04-mongodb-building-genai-applications.png" width="90" alt="Building GenAI Applications with MongoDB" title="Building GenAI Applications with MongoDB"/><br/>
-        <sub><b>MongoDB<br/>GenAI Apps</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/mongodb/badge/building-rag-apps-using-mongodb" target="_blank">
-        <img src="assets/badges/05-mongodb-building-rag-apps.png" width="90" alt="Building RAG Apps Using MongoDB" title="Building RAG Apps Using MongoDB"/><br/>
-        <sub><b>MongoDB<br/>RAG Apps</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/ibm-skillsbuild/badge/career-management-essentials" target="_blank">
-        <img src="assets/badges/06-ibm-career-management-essentials.png" width="90" alt="Career Management Essentials" title="Career Management Essentials"/><br/>
-        <sub><b>IBM Career<br/>Essentials</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/mongodb/badge/crud-operations-in-mongodb.1" target="_blank">
-        <img src="assets/badges/07-mongodb-crud-operations.png" width="90" alt="CRUD Operations in MongoDB" title="CRUD Operations in MongoDB"/><br/>
-        <sub><b>MongoDB<br/>CRUD Ops</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/cisco/badge/data-analytics-essentials" target="_blank">
-        <img src="assets/badges/08-cisco-data-analytics-essentials.png" width="90" alt="Data Analytics Essentials" title="Data Analytics Essentials"/><br/>
-        <sub><b>Cisco Data<br/>Analytics</b></sub>
-      </a>
-    </td>
-  </tr>
-  <!-- ROW 2 (Badges 9 - 16) -->
-  <tr>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/cisco/badge/find-insights-with-ai" target="_blank">
-        <img src="assets/badges/09-cisco-find-insights-with-ai.png" width="90" alt="Find Insights with AI" title="Find Insights with AI"/><br/>
-        <sub><b>Cisco Insights<br/>with AI</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/cisco/badge/introduction-to-modern-ai" target="_blank">
-        <img src="assets/badges/10-cisco-introduction-to-modern-ai.png" width="90" alt="Introduction to Modern AI" title="Introduction to Modern AI"/><br/>
-        <sub><b>Cisco Modern<br/>AI Intro</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/cisco/badge/javascript-essentials-1" target="_blank">
-        <img src="assets/badges/11-cisco-javascript-essentials-1.png" width="90" alt="JavaScript Essentials 1" title="JavaScript Essentials 1"/><br/>
-        <sub><b>Cisco JS<br/>Essentials 1</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/cisco/badge/javascript-essentials-2" target="_blank">
-        <img src="assets/badges/12-cisco-javascript-essentials-2.png" width="90" alt="JavaScript Essentials 2" title="JavaScript Essentials 2"/><br/>
-        <sub><b>Cisco JS<br/>Essentials 2</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/mongodb/badge/memory-for-ai-applications-with-mongodb" target="_blank">
-        <img src="assets/badges/13-mongodb-memory-for-ai-applications.png" width="90" alt="Memory for AI Applications with MongoDB" title="Memory for AI Applications with MongoDB"/><br/>
-        <sub><b>MongoDB AI<br/>Memory</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge" target="_blank">
-        <img src="assets/badges/14-mongodb-schema-design-optimization.png" width="90" alt="MongoDB Schema Design Optimization Skill Badge" title="MongoDB Schema Design Optimization Skill Badge"/><br/>
-        <sub><b>MongoDB Schema<br/>Optimization</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/mongodb/badge/mongodb-sharding-strategies" target="_blank">
-        <img src="assets/badges/15-mongodb-sharding-strategies.png" width="90" alt="MongoDB Sharding Strategies" title="MongoDB Sharding Strategies"/><br/>
-        <sub><b>MongoDB<br/>Sharding</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/cisco/badge/python-essentials-1.1" target="_blank">
-        <img src="assets/badges/16-cisco-python-essentials-1.png" width="90" alt="Python Essentials 1" title="Python Essentials 1"/><br/>
-        <sub><b>Cisco Python<br/>Essentials 1</b></sub>
-      </a>
-    </td>
-  </tr>
-  <!-- ROW 3 (Badges 17 - 19) -->
-  <tr>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/cisco/badge/python-essentials-2" target="_blank">
-        <img src="assets/badges/17-cisco-python-essentials-2.png" width="90" alt="Python Essentials 2" title="Python Essentials 2"/><br/>
-        <sub><b>Cisco Python<br/>Essentials 2</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-atlas-authentication-authorization" target="_blank">
-        <img src="assets/badges/18-mongodb-securing-atlas-authentication-authorization.png" width="90" alt="Securing MongoDB Atlas: Authentication & Authorization" title="Securing MongoDB Atlas: Authentication & Authorization"/><br/>
-        <sub><b>MongoDB Atlas<br/>Security</b></sub>
-      </a>
-    </td>
-    <td align="center" width="12.5%" valign="top">
-      <a href="https://www.credly.com/users/sukrut-dusane" target="_blank">
-        <img src="assets/badges/19-oracle-agentic-ai-certified-foundations-associate.jpg" width="90" alt="Oracle Agentic AI Certified Foundations Associate" title="Oracle Agentic AI Certified Foundations Associate"/><br/>
-        <sub><b>Oracle Agentic<br/>AI Associate</b></sub>
-      </a>
-    </td>
-    <td width="12.5%"></td>
-    <td width="12.5%"></td>
-    <td width="12.5%"></td>
-    <td width="12.5%"></td>
-    <td width="12.5%"></td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="assets/badges/01-aws-educate-introduction-to-generative-ai.png" width="105" alt="AWS Educate Introduction to Generative AI" />
+  <img src="assets/badges/02-aws-knowledge-ai-driven-development-lifecycle-foundations.png" width="105" alt="AWS Knowledge: AI Driven Development Lifecycle Foundations" />
+  <img src="assets/badges/03-mongodb-building-ai-powered-search-with-vector-search.png" width="105" alt="Building AI-Powered Search with MongoDB Vector Search" />
+  <img src="assets/badges/04-mongodb-building-genai-applications.png" width="105" alt="Building GenAI Applications with MongoDB" />
+  <img src="assets/badges/05-mongodb-building-rag-apps.png" width="105" alt="Building RAG Apps Using MongoDB" />
+  <img src="assets/badges/06-ibm-career-management-essentials.png" width="105" alt="Career Management Essentials" />
+  <img src="assets/badges/07-mongodb-crud-operations.png" width="105" alt="CRUD Operations in MongoDB" />
+  <img src="assets/badges/08-cisco-data-analytics-essentials.png" width="105" alt="Data Analytics Essentials" />
+  <br/>
+  <img src="assets/badges/09-cisco-find-insights-with-ai.png" width="105" alt="Find Insights with AI" />
+  <img src="assets/badges/10-cisco-introduction-to-modern-ai.png" width="105" alt="Introduction to Modern AI" />
+  <img src="assets/badges/11-cisco-javascript-essentials-1.png" width="105" alt="JavaScript Essentials 1" />
+  <img src="assets/badges/12-cisco-javascript-essentials-2.png" width="105" alt="JavaScript Essentials 2" />
+  <img src="assets/badges/13-mongodb-memory-for-ai-applications.png" width="105" alt="Memory for AI Applications with MongoDB" />
+  <img src="assets/badges/14-mongodb-schema-design-optimization.png" width="105" alt="MongoDB Schema Design Optimization Skill Badge" />
+  <img src="assets/badges/15-mongodb-sharding-strategies.png" width="105" alt="MongoDB Sharding Strategies" />
+  <img src="assets/badges/16-cisco-python-essentials-1.png" width="105" alt="Python Essentials 1" />
+  <br/>
+  <img src="assets/badges/17-cisco-python-essentials-2.png" width="105" alt="Python Essentials 2" />
+  <img src="assets/badges/18-mongodb-securing-atlas-authentication-authorization.png" width="105" alt="Securing MongoDB Atlas: Authentication & Authorization" />
+  <img src="assets/badges/19-oracle-agentic-ai-certified-foundations-associate.png" width="105" alt="Oracle Agentic AI Certified Foundations Associate" />
+</p>
 
 <br/>
 <hr/>
