@@ -15,7 +15,7 @@
 
   <!-- TYPING SVG SUBHEADER -->
   <a href="https://github.com/sukrut07">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=00FF88&background=0D1117&center=true&vCenter=true&width=750&lines=whoami+%E2%86%92+sukrut07+(Full-Stack+%26+Computer+Vision+Developer);education+%E2%86%92+Undergrad+in+Data+Science+%26+AI-ML+%40+MIT+AOE+Pune;cat+status.txt+%E2%86%92+Building+Federated+Learning+%26+Edge+Vision+Systems;echo+%24MISSION+%E2%86%92+IoT+Sensing+%E2%80%A2+Anomaly+Detection+%E2%80%A2+Scalable+AI;git+commit+-m+%22Always+building%2C+always+learning+%F0%9F%9A%80%22" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=00FF88&background=0D1117&center=true&vCenter=true&width=850&lines=whoami+%E2%86%92+sukrut07+(Full-Stack%2C+MLOps+%26+DevOps+Engineer);education+%E2%86%92+Sophomore+-+Computer+Science+%26+Engineering+(AI+%26+ML)+%40+MITAOE;cat+status.txt+%E2%86%92+Building+Federated+Learning+%26+Edge+Vision+Systems;echo+%24MISSION+%E2%86%92+IoT+Sensing+%E2%80%A2+Anomaly+Detection+%E2%80%A2+Scalable+AI;git+commit+-m+%22Always+building%2C+always+learning+%F0%9F%9A%80%22" alt="Typing SVG Animation" />
   </a>
 
   <br/><br/>
@@ -45,8 +45,8 @@
 
   <br/><br/>
 
-  <!-- PROFILE VIEWS COUNTER (Starting baseline at 700) -->
-  <img src="https://hits.sh/github.com/sukrut07/sukrut07.svg?style=for-the-badge&label=PROFILE%20VIEWS&extraCount=700&color=00ff88&labelColor=0d1117" alt="Profile Views Counter"/>
+  <!-- PROFILE VIEWS COUNTER (Starting baseline at 1700) -->
+  <img src="https://hits.sh/github.com/sukrut07/sukrut07.svg?style=for-the-badge&label=PROFILE%20VIEWS&extraCount=1700&color=00ff88&labelColor=0d1117" alt="Profile Views Counter"/>
 
 </div>
 
@@ -69,7 +69,7 @@ $ cat about.json
   "experience": [
     "Founding Engineer Intern @ OBLIQ-in (CA Audit Workflows & Open-Source)",
     "AI/ML Intern @ Vicharanshala Labs, IIT Ropar",
-    "Junior Animator & Club Coordinator @ Vertex GDNA"
+    "Junior Animator @ Vertex GDNA"
   ],
   "focus": [
     "Applied AI & Machine Learning",
@@ -89,7 +89,7 @@ $ cat about.json
 - 🎓 **Education**: B.Tech in CSE (AI & Machine Learning), **MIT Academy of Engineering (MITAOE), Pune**.
 - 💼 **Experience**: Founding Engineer Intern at **OBLIQ-in** (automating resources for CA audit firms) | Former AI/ML Intern at **Vicharanshala Labs, IIT Ropar**.
 - 🎯 **Technical Focus**: Machine learning architectures, computer vision pipelines, document intelligence (OCR), and full-stack systems.
-- 🎮 **Club Leadership**: Junior Animator & Club Coordinator at **Vertex GDNA** (organising Manim-to-Godot learning sessions).
+- 🎮 **Club Leadership**: Junior Animator at **Vertex GDNA** (organising Manim-to-Godot learning sessions).
 - 🏆 **Hackathons & Competitions**:
   - **1st Runner Up**: PVG Ignition Hackverse (automated insurance underwriting & risk assessment).
   - **1st Place**: Fund Arcade (Pune Start-Up Fest '26, COEP Technological University).
@@ -206,7 +206,7 @@ $ cat about.json
 - **Smart India Hackathon 2026 Internal Round Qualifier (Team Agastya_01)**:
   - **PS-26102**: AI fraud and anomaly detection for MPLADS Scheme ([ParadigmHMX / Sanchay](https://github.com/sukrut07/ParadigmHMX)).
   - **PS-26239**: AI-Enabled Scholarship and Fellowship Management System for Scheduled Tribes.
-- **Vertex GDNA, MITAOE — Junior Animator & Club Coordinator**: Coordinate game development and graphics initiatives, organise Manim-to-Godot learning sessions, and promote collaborative technical learning.
+- **Vertex GDNA, MITAOE — Junior Animator**: Coordinate game development and graphics initiatives, organise Manim-to-Godot learning sessions, and promote collaborative technical learning.
 
 <br/>
 <hr/>
@@ -259,6 +259,31 @@ $ cat about.json
   <img src="assets/badges/18-mongodb-securing-atlas-authentication-authorization.png" width="95" alt="Securing MongoDB Atlas: Authentication & Authorization" />
   <img src="assets/badges/19-oracle-agentic-ai-certified-foundations-associate.png" width="95" alt="Oracle Agentic AI Certified Foundations Associate" />
 </p>
+<p align="center">
+  <img src="assets/badges/20-ibm-data-classification.png" width="95" alt="Data Classification" />
+  <img src="assets/badges/21-ibm-data-collection-and-analysis.png" width="95" alt="Data Collection and Analysis" />
+  <img src="assets/badges/22-ibm-data-preparation-for-analysis.png" width="95" alt="Data Preparation for Analysis" />
+  <img src="assets/badges/23-ibm-data-usability-for-organizations.png" width="95" alt="Data Usability for Organizations" />
+  <img src="assets/badges/24-ibm-data-visualization-and-presentation.png" width="95" alt="Data Visualization and Presentation" />
+  <img src="assets/badges/25-ibm-introduction-to-inferential-and-descriptive-statistics.png" width="95" alt="Introduction to Inferential and Descriptive Statistics" />
+  <img src="assets/badges/26-ibm-make-agentic-ai-work-for-you.png" width="95" alt="Make Agentic AI Work for You" />
+</p>
+<p align="center">
+  <img src="assets/badges/27-ibm-introduction-to-retrieval-augmented-generation.png" width="95" alt="Introduction to Retrieval-Augmented Generation" />
+  <img src="assets/badges/28-ibm-the-rise-of-multiagent-systems.png" width="95" alt="The Rise of Multiagent Systems" />
+  <img src="assets/badges/29-ibm-unleashing-the-power-of-ai-agents.png" width="95" alt="Unleashing the Power of AI Agents" />
+  <img src="assets/badges/30-openai-get-started-with-codex.png" width="95" alt="Get Started with Codex" />
+  <img src="assets/badges/31-openai-extend-codex-workflows.png" width="95" alt="Extend Codex Workflows" />
+  <img src="assets/badges/32-openai-scale-codex-across-teams-and-systems.png" width="95" alt="Scale Codex Across Teams and Systems" />
+  <img src="assets/badges/33-openai-build-with-retrieval-augmented-generation.png" width="95" alt="Build with Retrieval-Augmented Generation" />
+</p>
+<p align="center">
+  <img src="assets/badges/34-openai-design-and-build-agentic-systems.png" width="95" alt="Design and Build Agentic Systems" />
+  <img src="assets/badges/35-openai-evaluate-ai-applications.png" width="95" alt="Evaluate AI Applications" />
+  <img src="assets/badges/36-openai-optimize-ai-application-performance.png" width="95" alt="Optimize AI Application Performance" />
+  <img src="assets/badges/37-openai-scope-ai-solutions.png" width="95" alt="Scope AI Solutions" />
+  <img src="assets/badges/38-openai-ai-leadership.png" width="95" alt="AI Leadership" />
+</p>
 
 <br/>
 <hr/>
@@ -300,7 +325,29 @@ $ cat about.json
 <hr/>
 <br/>
 
-<!-- 7. 3D CONTRIBUTION GRAPH -->
+<!-- 7. GIT KOI ACTIVITY POND -->
+## 🐟 Git Koi Activity Pond
+
+<div align="center">
+
+  <!-- Responsive Theme-Adaptive Picture: Git Koi from output branch / local repository -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sukrut07/sukrut07/output/koi/koi.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sukrut07/sukrut07/output/koi/koi.gif">
+    <img alt="Git Koi Activity Fish" src="koi/koi.gif" width="256" style="max-width: 100%; image-rendering: pixelated;"/>
+  </picture>
+
+  <p>
+    <i>🌊 A living pixel-art koi fish colored by programming languages, grown by contributions, and swimming based on daily activity. Generated daily via GitHub Actions.</i>
+  </p>
+
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- 8. 3D CONTRIBUTION GRAPH -->
 ## 🧊 3D Contribution Landscape
 
 <div align="center">
@@ -322,7 +369,7 @@ $ cat about.json
 <hr/>
 <br/>
 
-<!-- 8. GALAGA CONTRIBUTION GAME -->
+<!-- 9. GALAGA CONTRIBUTION GAME -->
 ## 🚀 Contribution Arcade: Galaga
 
 <div align="center">
@@ -334,17 +381,13 @@ $ cat about.json
     <img alt="Galaga Contribution Grid Game Animation" src="https://raw.githubusercontent.com/sukrut07/sukrut07/output/galaga-contribution-graph.svg" width="100%" style="max-width: 850px;"/>
   </picture>
 
-  <p>
-    <i>👾 Retro Galaga fighter ship shooting lasers to clear contribution blocks! Automatically generated and rendered every 12 hours via GitHub Actions.</i>
-  </p>
-
 </div>
 
 <br/>
 <hr/>
 <br/>
 
-<!-- 9. CONNECT WITH ME (WITH HAND CONNECTION ARTWORK) -->
+<!-- 10. CONNECT WITH ME (WITH HAND CONNECTION ARTWORK) -->
 ## 🤝 Connect & Collaborate
 
 <div align="center">
@@ -405,24 +448,16 @@ $ cat about.json
 <hr/>
 <br/>
 
-<!-- 10. SUPPORT ME & FOOTER -->
+<!-- 11. SUPPORT ME & FOOTER -->
 ## ☕ Support My Work
 
 <div align="center">
 
-  <p>If you find my open-source projects, tools, or research work inspiring, consider buying me a coffee!</p>
-
   <a href="https://www.buymeacoffee.com/sukrut07" target="_blank">
-    <img src="assets/buymeacoffee.png" height="50" alt="Buy Me A Coffee at sukrut07" style="max-width: 100%; border-radius: 8px;"/>
+    <img src="assets/buymeacoffee.png" height="75" alt="Buy Me A Coffee at sukrut07" style="max-width: 100%; border-radius: 8px;"/>
   </a>
 
   <br/><br/>
-
-  <p>
-    <i>⭐️ Engineered with passion by <a href="https://github.com/sukrut07"><b>Sukrut Dusane</b></a> — Always Building, Always Learning 🚀</i>
-  </p>
-
-  <br/>
 
   <!-- JOKER PIXEL-ART FOOTER ANIMATION (NO WAVING CAPSULE BACKGROUND) -->
   <img src="assets/footer.gif" alt="The Joker Pixel Art Car Drive Footer Animation" width="100%" style="max-width: 640px; border-radius: 8px; display: block; margin: 0 auto;"/>
