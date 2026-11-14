@@ -337,10 +337,6 @@ $ cat about.json
     <img alt="Git Koi Activity Fish" src="koi/koi.gif" width="256" style="max-width: 100%; image-rendering: pixelated;"/>
   </picture>
 
-  <p>
-    <i>🌊 A living pixel-art koi fish colored by programming languages, grown by contributions, and swimming based on daily activity. Generated daily via GitHub Actions.</i>
-  </p>
-
 </div>
 
 <br/>
@@ -358,10 +354,6 @@ $ cat about.json
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sukrut07/sukrut07/output/profile-3d-contrib/profile-green-animate.svg">
     <img alt="3D GitHub Contribution Calendar" src="https://raw.githubusercontent.com/sukrut07/sukrut07/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" style="max-width: 850px;"/>
   </picture>
-
-  <p>
-    <i>📊 Isometric 3D visualization of contribution density generated daily via GitHub Actions.</i>
-  </p>
 
 </div>
 
@@ -460,7 +452,7 @@ $ cat about.json
   <br/><br/>
 
   <!-- JOKER PIXEL-ART FOOTER ANIMATION (NO WAVING CAPSULE BACKGROUND) -->
-  <img src="assets/footer.gif" alt="The Joker Pixel Art Car Drive Footer Animation" width="100%" style="max-width: 640px; border-radius: 8px; display: block; margin: 0 auto;"/>
+  <img src="assets/footer.gif" alt="The Joker Pixel Art Car Drive Footer Animation" width="100%" style="max-width: 440px; border-radius: 8px; display: block; margin: 0 auto;"/>
 
   <!-- Alternative <video> format: drag & drop .mp4 into the GitHub README web editor, paste generated link below: -->
   <!-- <video src="https://github.com/user-attachments/assets/PLACEHOLDER_FOOTER_VIDEO" autoplay loop muted playsinline width="100%" style="max-width: 640px; border-radius: 8px;"></video> -->
