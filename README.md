@@ -244,18 +244,20 @@ $ cat about.json
   <img src="assets/badges/07-mongodb-crud-operations.png" width="95" alt="CRUD Operations in MongoDB" />
 </p>
 <p align="center">
-  <img src="assets/badges/08-cisco-data-analytics-essentials.png" width="95" alt="Data Analytics Essentials" />
-  <img src="assets/badges/09-cisco-find-insights-with-ai.png" width="95" alt="Find Insights with AI" />
-  <img src="assets/badges/10-cisco-introduction-to-modern-ai.png" width="95" alt="Introduction to Modern AI" />
-  <img src="assets/badges/11-cisco-javascript-essentials-1.png" width="95" alt="JavaScript Essentials 1" />
-  <img src="assets/badges/12-cisco-javascript-essentials-2.png" width="95" alt="JavaScript Essentials 2" />
-  <img src="assets/badges/13-mongodb-memory-for-ai-applications.png" width="95" alt="Memory for AI Applications with MongoDB" />
-  <img src="assets/badges/14-mongodb-schema-design-optimization.png" width="95" alt="MongoDB Schema Design Optimization Skill Badge" />
+  <img src="assets/badges/30-openai-get-started-with-codex.png" width="95" alt="Get Started with Codex" />
+  <img src="assets/badges/31-openai-extend-codex-workflows.png" width="95" alt="Extend Codex Workflows" />
+  <img src="assets/badges/32-openai-scale-codex-across-teams-and-systems.png" width="95" alt="Scale Codex Across Teams and Systems" />
+  <img src="assets/badges/33-openai-build-with-retrieval-augmented-generation.png" width="95" alt="Build with Retrieval-Augmented Generation" />
+  <img src="assets/badges/34-openai-design-and-build-agentic-systems.png" width="95" alt="Design and Build Agentic Systems" />
+  <img src="assets/badges/35-openai-evaluate-ai-applications.png" width="95" alt="Evaluate AI Applications" />
+  <img src="assets/badges/36-openai-optimize-ai-application-performance.png" width="95" alt="Optimize AI Application Performance" />
 </p>
 <p align="center">
+  <img src="assets/badges/37-openai-scope-ai-solutions.png" width="95" alt="Scope AI Solutions" />
+  <img src="assets/badges/38-openai-ai-leadership.png" width="95" alt="AI Leadership" />
+  <img src="assets/badges/13-mongodb-memory-for-ai-applications.png" width="95" alt="Memory for AI Applications with MongoDB" />
+  <img src="assets/badges/14-mongodb-schema-design-optimization.png" width="95" alt="MongoDB Schema Design Optimization Skill Badge" />
   <img src="assets/badges/15-mongodb-sharding-strategies.png" width="95" alt="MongoDB Sharding Strategies" />
-  <img src="assets/badges/16-cisco-python-essentials-1.png" width="95" alt="Python Essentials 1" />
-  <img src="assets/badges/17-cisco-python-essentials-2.png" width="95" alt="Python Essentials 2" />
   <img src="assets/badges/18-mongodb-securing-atlas-authentication-authorization.png" width="95" alt="Securing MongoDB Atlas: Authentication & Authorization" />
   <img src="assets/badges/19-oracle-agentic-ai-certified-foundations-associate.png" width="95" alt="Oracle Agentic AI Certified Foundations Associate" />
 </p>
@@ -269,20 +271,18 @@ $ cat about.json
   <img src="assets/badges/26-ibm-make-agentic-ai-work-for-you.png" width="95" alt="Make Agentic AI Work for You" />
 </p>
 <p align="center">
+  <img src="assets/badges/08-cisco-data-analytics-essentials.png" width="95" alt="Data Analytics Essentials" />
+  <img src="assets/badges/09-cisco-find-insights-with-ai.png" width="95" alt="Find Insights with AI" />
+  <img src="assets/badges/10-cisco-introduction-to-modern-ai.png" width="95" alt="Introduction to Modern AI" />
+  <img src="assets/badges/11-cisco-javascript-essentials-1.png" width="95" alt="JavaScript Essentials 1" />
+  <img src="assets/badges/12-cisco-javascript-essentials-2.png" width="95" alt="JavaScript Essentials 2" />
+  <img src="assets/badges/16-cisco-python-essentials-1.png" width="95" alt="Python Essentials 1" />
+  <img src="assets/badges/17-cisco-python-essentials-2.png" width="95" alt="Python Essentials 2" />
+</p>
+<p align="center">
   <img src="assets/badges/27-ibm-introduction-to-retrieval-augmented-generation.png" width="95" alt="Introduction to Retrieval-Augmented Generation" />
   <img src="assets/badges/28-ibm-the-rise-of-multiagent-systems.png" width="95" alt="The Rise of Multiagent Systems" />
   <img src="assets/badges/29-ibm-unleashing-the-power-of-ai-agents.png" width="95" alt="Unleashing the Power of AI Agents" />
-  <img src="assets/badges/30-openai-get-started-with-codex.png" width="95" alt="Get Started with Codex" />
-  <img src="assets/badges/31-openai-extend-codex-workflows.png" width="95" alt="Extend Codex Workflows" />
-  <img src="assets/badges/32-openai-scale-codex-across-teams-and-systems.png" width="95" alt="Scale Codex Across Teams and Systems" />
-  <img src="assets/badges/33-openai-build-with-retrieval-augmented-generation.png" width="95" alt="Build with Retrieval-Augmented Generation" />
-</p>
-<p align="center">
-  <img src="assets/badges/34-openai-design-and-build-agentic-systems.png" width="95" alt="Design and Build Agentic Systems" />
-  <img src="assets/badges/35-openai-evaluate-ai-applications.png" width="95" alt="Evaluate AI Applications" />
-  <img src="assets/badges/36-openai-optimize-ai-application-performance.png" width="95" alt="Optimize AI Application Performance" />
-  <img src="assets/badges/37-openai-scope-ai-solutions.png" width="95" alt="Scope AI Solutions" />
-  <img src="assets/badges/38-openai-ai-leadership.png" width="95" alt="AI Leadership" />
 </p>
 
 <br/>
